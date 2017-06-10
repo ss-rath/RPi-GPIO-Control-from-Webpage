@@ -1,6 +1,6 @@
 # GPIOControl
 This is a code to control the GPIO pins of a Raspberry Pi by creating a webserver.
-The Flask package is used to create the webserver
+The Flask package is used to create the webserver.
 The RPi.GPIO package is used to control the GPIO pins
 
 ## Clone the repo
